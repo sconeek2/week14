@@ -1,0 +1,10 @@
+
+
+table{
+    border-spacing: 2em;
+    border: dashed lightcoral;
+}
+
+tr{
+    border: dotted lightblue;
+}
